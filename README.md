@@ -28,28 +28,44 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
-- PHP (Laravel 11–12)
-- REST API
-- Authentication & Role-based Access
-- Clean Architecture
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Auth_%26_RBAC-22C55E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-64748B?style=flat-square"/>
+</p>
+
+---
 
 ### 🎨 Frontend
-- React.js
-- TypeScript
-- Tailwind CSS
-- Inertia.js
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/>
+</p>
+
+---
 
 ### 🗄️ Database
-- PostgreSQL
-- MySQL
-- SQLite
-- Redis
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+---
 
 ### ⚙️ DevOps & Tools
-- Git & GitHub
-- Docker
-- GitHub Actions
-- CI/CD Basics
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD_Basics-0F172A?style=flat-square"/>
+</p>
 
 ---
 
