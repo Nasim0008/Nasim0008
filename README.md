@@ -1,16 +1,128 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Nasim Hossen</h1>
+<h3 align="center">Laravel & React Developer | Competitive Programmer</h3>
 
-<!--
-**Nasim0008/Nasim0008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-nasim-hossen-616019243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mdnasimhossen9nasim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://github.com/Nasim0008">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👨‍💻 Junior **Laravel & React Developer** with **1+ year** of hands-on experience  
+- 🏢 Currently working at **Sun Software Solution Development**
+- 🧠 Strong in **backend system design & clean architecture**
+- 🏆 **2★ CodeChef Coder** & active **Competitive Programmer**
+- 🎯 Goal: Build scalable, secure, and high-performance web applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+- PHP (Laravel 11–12)
+- REST API
+- Authentication & Role-based Access
+- Clean Architecture
+
+### 🎨 Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+- Inertia.js
+
+### 🗄️ Database
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
+
+### ⚙️ DevOps & Tools
+- Git & GitHub
+- Docker
+- GitHub Actions
+- CI/CD Basics
+
+---
+
+## 🏗️ Featured Projects
+
+### 🎓 College Management System
+- Online admission system with payment gateway & SMS verification
+- High traffic optimization during admission period
+- Tech: **Laravel, React, TypeScript, PostgreSQL**
+
+🔗 Live: https://sherpurgovtcollege.edu.bd
+
+---
+
+### 🏫 Admission Management System
+- Role-based access control
+- QR-based student verification
+- Automated reports & notifications
+
+---
+
+### 🌐 SUNSSD Company Website
+- Responsive company portfolio website
+- Dynamic content management
+- Tech: **Laravel, React, Inertia.js**
+
+🔗 Live: https://sunssd.com
+
+---
+
+## 🧠 Competitive Programming
+
+- 🟣 **Codeforces**  
+  Max Rating: **1166** | Solved: **1400+**  
+  🔗 https://codeforces.com/profile/Elon_Musk
+
+- 🟡 **CodeChef**  
+  **2★ Coder** | Max Rating: **1569**  
+  🔗 https://www.codechef.com/users/mn_elon_musk
+
+- 🔵 **VJudge**  
+  Solved: **129**  
+  🔗 https://vjudge.net/user/Md_Nasim_Hossen
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nasim0008&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasim0008&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasim0008&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **mdnasimhossen9nasim@gmail.com**
+- 📍 Location: **Dhaka, Bangladesh**
+
+---
+
+<p align="center">
+  💡 <i>"Code is not just about solving problems, it's about building solutions."</i>
+</p>
